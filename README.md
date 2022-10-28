@@ -1,2 +1,2 @@
 # Googledemo
-google main page demo
+https://diyarcolakk.github.io/Googledemo/
